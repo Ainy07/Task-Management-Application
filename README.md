@@ -26,7 +26,7 @@ Clone the repository:
 
 ```bash
 Copy code
-git clone https://github.com/Ainy07/task-management-app.git
+git clone https://github.com/Ainy07/Task_Management_Application.git
 ```
 ## Install dependencies:
 
